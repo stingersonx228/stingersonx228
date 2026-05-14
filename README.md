@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Обо мне
 
-<!--
-**stingersonx228/stingersonx228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student & Developer** | Увлечен созданием полезных инструментов и AgTech-решений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Инструментарий
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 📈 Активность
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stingersonx228&theme=dark)
+
+### 💡 Интересные факты
+- Могу собрать устройство-анализатор почвы с закрытыми глазами (почти).
+- Собираю компьютеры и увлекаюсь комплектующими.
+- Люблю пиццу.
